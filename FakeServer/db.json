@@ -1,0 +1,6 @@
+{
+  "miner": [
+      { "id": 1, "miner": "guar" }
+    ],
+  "profile": { "name": "typicode" }
+}
